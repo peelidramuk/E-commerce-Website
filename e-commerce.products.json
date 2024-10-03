@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65f84de9e37d96808d851e61"
+  },
+  "name": "M 40",
+  "price": "400",
+  "category": "mobile",
+  "userId": "61d469fadc2a5a2131d4c16b",
+  "company": "samsung",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fb4ef33671ea4d71b1c5cc"
+  },
+  "name": "U10",
+  "price": "100",
+  "category": "mobile",
+  "userId": "65f6dcdf7eab0789ff3dc77b",
+  "company": "samsung",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5740c10829ce6b230e73"
+  },
+  "name": "One",
+  "price": "1000",
+  "category": "mobile",
+  "userId": "61d469fadc2a5a2131d4c16b",
+  "company": "one plus",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc6ae38833f26835d8c45d"
+  },
+  "name": "Apple",
+  "price": "1999",
+  "category": "mobile",
+  "userId": "65f6dcdf7eab0789ff3dc77b",
+  "company": "Iphone",
+  "__v": 0
+}]

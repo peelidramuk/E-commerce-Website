@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "65f543b6e32530c9597dc66c"
+  },
+  "name": "test",
+  "email": "test@test.com",
+  "password": "test"
+},
+{
+  "_id": {
+    "$oid": "65f6dcdf7eab0789ff3dc77b"
+  },
+  "name": "Anil Sidhu",
+  "email": "anil@test.com",
+  "password": "abc@123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f6e1aed83d20b66f553efe"
+  },
+  "name": "Dileep",
+  "email": "dil@123",
+  "password": "1234",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f71f85e2b8d31f7046a4c5"
+  },
+  "name": "Harman Sindhu",
+  "email": "harman@test.com",
+  "password": "abc@123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f71fd3e2b8d31f7046a4c7"
+  },
+  "name": "DileepKumar",
+  "email": "dileepvaltheti@test.com",
+  "password": "abc@123456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f7223284ee93e70bb466b5"
+  },
+  "name": "dilpe",
+  "email": "ddne@test.com",
+  "password": "dhbhdcb",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fdc00e7e44dc5f98245882"
+  },
+  "name": "Kumar",
+  "email": "valtheti@test.com",
+  "password": "abc@123456",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fdc281a485e61c0572db04"
+  },
+  "name": "SaiRatna",
+  "email": "ratna@test.com",
+  "password": "rat@123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ffe3ecb30e4909d0ef863e"
+  },
+  "name": "dil",
+  "email": "dilk@test.com",
+  "password": "asdf",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e0f02252a6ee18581dcaa"
+  },
+  "name": "DIleep ",
+  "email": "anil@test.com",
+  "password": "Dkdkdk",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e6460334e371fddd89a18"
+  },
+  "name": "gagan",
+  "email": "gagan@test.com",
+  "password": "12345",
+  "__v": 0
+}]
